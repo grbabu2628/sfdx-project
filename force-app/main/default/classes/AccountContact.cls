@@ -1,5 +1,6 @@
 public class AccountContact {
     //MY NEW ACCOUNT CONTACT
+    //NEW COMMENT FROM RAVI
     public static void actCont(){
         
        Map<Id, Contact> cnts = New Map<Id, Contact>();
